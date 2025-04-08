@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\parcial_1\Parcial1lib\Parcial1Test\obj\Debug\net9.0\Parcial1Test.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\parcial_1\Parcial1lib\Parcial1Test\obj\Debug\net9.0\Parcial1Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\parcial_1\Parcial1lib\Parcial1Test\obj\Debug\net9.0\Parcial1Test.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\parcial_1\Parcial1lib\Parcial1Test\obj\Debug\net9.0\Parcial1Test.AssemblyInfo.cs
+C:\Users\HP\Desktop\parcial_1\Parcial1lib\Parcial1Test\obj\Debug\net9.0\Parcial1Test.csproj.CoreCompileInputs.cache
